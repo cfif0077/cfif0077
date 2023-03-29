@@ -1,4 +1,7 @@
-### Hi there 👋
+![](https://github.com/cfif0077/cfif0077/blob/main/header.png?raw=true)
+
+## Hi 👋, 
+# I'm Alexcander 
 
 <!--
 **cfif0077/cfif0077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
