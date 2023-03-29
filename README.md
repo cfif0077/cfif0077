@@ -1,7 +1,11 @@
 ![](https://github.com/cfif0077/cfif0077/blob/main/header.png?raw=true)
 
-## Hi 👋, 
-# I'm Alexcander 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 <!--
 **cfif0077/cfif0077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
